@@ -1,0 +1,1 @@
+<form><input type='text' placeholder='اسم المستخدم'><input type='email' placeholder='البريد'></form>

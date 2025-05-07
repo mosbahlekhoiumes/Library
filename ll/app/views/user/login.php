@@ -1,0 +1,1 @@
+<form><input type='text' placeholder='البريد'><input type='password' placeholder='كلمة السر'></form>
